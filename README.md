@@ -24,7 +24,9 @@ Main Branch (*Grimy Grove*)
 0- Install packages
 
 ``` shell
-sudo pacman -S sway waybar rofi-wayland mako kitty nwg-bar fortune-mod swayidle xdg-desktop-portal xdg-desktop-portal-wlr
+sudo pacman -S sway waybar rofi-wayland mako kitty nwg-bar fortune-mod swayidle xdg-desktop-portal xdg-desktop-portal-wlr kitty nwg-bar fortune-mod aototiling flameshot cliphist emacs
+
+paru sov nwg-wrapper sticky
 ```
 
 1 - Clone the repository:
