@@ -49,15 +49,15 @@ configuration {
 //@theme "/usr/share/rofi/themes/material.rasi"
 
 
-//@theme "/home/arkboi/.config/rofi/themes/sway.rasi"
+//@theme "~/.config/rofi/themes/sway.rasi"
 
 //@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
 
-//@theme "/home/arkboi/.config/rofi/themes/sway.rasi"
+//@theme "~/.config/rofi/themes/sway.rasi"
 
-//@theme "/home/arkboi/.config/rofi/themes/squared-everforest.rasi"
+//@theme "~/.config/rofi/themes/squared-everforest.rasi"
 
-//@theme "/home/arkboi/.config/rofi/themes/sway.rasi"
+//@theme "~/.config/rofi/themes/sway.rasi"
 
 //@theme "/usr/share/rofi/themes/paper-float.rasi"
 
@@ -65,12 +65,12 @@ configuration {
 
 //@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
 
-//@theme "/home/arkboi/.config/rofi/themes/hypr.rasi"
+//@theme "~/.config/rofi/themes/hypr.rasi"
 
-//@theme "/home/arkboi/.config/rofi/themes/sway-alt.rasi"
+//@theme "~/.config/rofi/themes/sway-alt.rasi"
 
-//@theme "/home/arkboi/.config/rofi/themes/hypr.rasi"
+//@theme "~/.config/rofi/themes/hypr.rasi"
 
-//@theme "/home/arkboi/.config/rofi/themes/sway-alt.rasi"
+//@theme "~/.config/rofi/themes/sway-alt.rasi"
 
-@theme "/home/a/.config/rofi/themes/sway-alt.rasi"
+@theme "~/.config/rofi/themes/sway-alt.rasi"
