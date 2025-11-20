@@ -38,7 +38,7 @@ rm -rf ~/.config/sway ~/.config/waybar ~/.config/rofi ~/.config/kitty ~/.config/
 ```
 3- Copy files over
 ``` shell
-cp ~/sway/files/.config/* ~/.config
+cp -r ~/sway/files/.config/* ~/.config
 ````
 
 This should be it for the installation.
